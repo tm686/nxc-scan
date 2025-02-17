@@ -1,5 +1,6 @@
 # nxc-scan
-A simple script to spray creds and passwords over netexec services
+A simple script to spray creds and passwords over netexec services. 
+A better and more advanced script can be found here https://github.com/overgrowncarrot1/Netexec_Auto_Hacks and https://github.com/overgrowncarrot1/CrackEverything6
 ```
 NXC Service Scanner Automation
 Automates enumeration of Active Directory services using NXC.
